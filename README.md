@@ -19,7 +19,7 @@
     <a href="https://github.com/antoniorodr" target="_blank">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
     </a>
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fantoniorodr" target="_blank">
+    <a href="https://github.com/antoniorodr" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantoniorodr&label=Profile%20views&countColor=%23263759" alt="Profile views badge" />
     </a>
 </div>
