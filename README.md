@@ -6,7 +6,7 @@
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
     <p>
-        To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
+        To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Portfolio. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
     </p>
     <div align="center" style="display: flex; gap: 4px; justify-content: center; align-items: center; flex-wrap: wrap;">
         <a href="https://antoniorodr.github.io/Antonio_portfolio/" target="_blank">
@@ -80,7 +80,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoniorodr&theme=github_dark&utcOffset=10" alt="Antonio's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoniorodr&theme=github_dark&utcOffset=1" alt="Antonio's GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>
     </tr>
