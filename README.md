@@ -69,7 +69,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniorodr&theme=merko" alt="Antonio's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoniorodr&theme=github_dark&utcOffset=10" alt="Antonio's GitHub Stats"/>
     </tr>
  </table>
 
