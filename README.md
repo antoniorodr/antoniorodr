@@ -3,29 +3,10 @@
     <p>I'm a Innovative and deadline-driven Python Developer with skills in Excel and Power BI, along with experience as a Finance Assistant. Capable of contributing from initial concept to final execution.</p>
 </div>
 
-<div align="center">
-    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-    <p>
-        To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
-    </p>
-    <div align="center" style="display: flex; gap: 4px; justify-content: center; align-items: center; flex-wrap: wrap;">
-        <a href="https://antoniorodr.github.io/Antonio_portfolio/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28" alt="Portfolio logo" />
-        </a>
-        <a href="https://www.instagram.com/antonioronor/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram logo" />
-        </a>
-        <a href="https://www.linkedin.com/in/antonioinorge/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn logo" />
-        </a>
-        <a href="https://github.com/antoniorodr" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-        </a>
-        <a href="https://github.com/antoniorodr" target="_blank">
-            <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantoniorodr&label=Profile%20views&countColor=%23263759" alt="Profile views badge" />
-        </a>
-    </div>
+<div align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <a href="https://antoniorodr.github.io/Antonio_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28" alt="Portfolio logo" /></a><a href="https://www.instagram.com/antonioronor/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram logo" /></a><a href="https://www.linkedin.com/in/antonioinorge/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn logo" /></a><a href="https://github.com/antoniorodr" target="_blank"><img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a><a href="https://github.com/antoniorodr" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantoniorodr&label=Profile%20views&countColor=%23263759" alt="Profile views badge" /></a>
 </div>
+
 
 
 <div align="center">
