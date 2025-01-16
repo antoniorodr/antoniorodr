@@ -73,7 +73,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoniorodr&theme=github_dark&utcOffset=10" alt="Antonio's GitHub Stats"/>
+       <!-- <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=antoniorodr&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a></td> -->
     </tr>
  </table>
 
