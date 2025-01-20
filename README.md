@@ -1,8 +1,3 @@
-  <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Antonio;Welcome+to..;..my+Github..;" alt="Typing SVG"/>
-  </h1>
-
-
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Innovative and deadline-driven Python Developer with skills in Excel and Power BI, along with experience as a Finance Assistant. Capable of contributing from initial concept to final execution.</p>
