@@ -28,7 +28,6 @@
 
 </div>
 
-
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
@@ -44,6 +43,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
@@ -80,7 +80,7 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>
        <!-- <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=antoniorodr&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a></td> -->
     </tr>
  </table>
