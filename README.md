@@ -1,6 +1,6 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Innovative and deadline-driven Python Developer with skills in Excel and Power BI, along with experience as a Finance Assistant. Capable of contributing from initial concept to final execution.</p>
+    <p>I'm a solution-oriented developer with a strong interest in backend development, automation, and developer tooling. I enjoy building clean, maintainable solutions—from early prototypes to production-ready tools—and have worked with technologies like Flask, React, Node.js, PostgreSQL, and various CLI and terminal-based workflows.</p>
 </div>
 
 <div align="center">
