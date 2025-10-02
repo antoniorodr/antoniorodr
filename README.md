@@ -9,7 +9,7 @@
         To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Portfolio. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://antoniorodr.github.io/Antonio_portfolio/" style="text-decoration: none; display: flex;">
+    <a href="https://antoniorodr.github.io/portfolio/" style="text-decoration: none; display: flex;">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28" alt="Portfolio logo" />
     </a>
     <a href="https://www.instagram.com/antonioronor/" style="text-decoration: none; display: flex;">
