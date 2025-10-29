@@ -1,12 +1,12 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a solution-oriented developer with a strong interest in backend development, automation, and developer tooling. I enjoy building clean, maintainable solutions—from early prototypes to production-ready tools—and have worked with technologies like Flask, React, Node.js, PostgreSQL, and various CLI and terminal-based workflows.</p>
+    <p>Solution-oriented developer focusing on backend development, automation, and developer tooling. Building clean, maintainable solutions—from early prototypes to production-ready tools—using technologies like Flask, React, Node.js, PostgreSQL, and various CLI and terminal-based workflows.</p>
 </div>
 
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
     <p>
-        To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and CV through my Portfolio. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
+        Find my professional profile and contact details on LinkedIn, or explore my projects and CV through my Portfolio. Open to collaborations, opportunities, and exchanging ideas about software development and technology.
     </p>
   <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://antoniorodriguez.no" style="text-decoration: none; display: flex;">
@@ -30,14 +30,14 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+    <p>Daily activity across repositories—progress and fixes to ongoing projects, with continuous improvement and collaborative development.</p>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a versatile engineer, I have gained proficiency in Python and have a foundational understanding of HTML and CSS. I am eager to expand my skills by learning additional programming languages, such as Swift. Here are the languages I use to transform complex challenges into elegant solutions.</p>
+<p>Working primarily with Python, along with HTML, CSS, and expanding into additional languages like Swift.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -60,7 +60,7 @@
 </div>
 
 <h2 align="center" class="section-heading">🔧 Frameworks, Platforms and Libraries</h2>
-<p>Frameworks, platforms, and libraries are integral to my development process, providing the structure and tools necessary for creating scalable and efficient applications. I have experience with various technologies, each chosen for its ability to facilitate rapid development and deliver robust functionality.</p>
+<p>Using frameworks and libraries for rapid development and robust functionality across scalable applications.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -87,7 +87,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<p>Activity and contribution statistics.</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniorodr&theme=github_dark" alt="Antonio's GitHub Stats"/></td>
