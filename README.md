@@ -47,7 +47,7 @@ Open to collaborations, opportunities, and exchanging ideas about software devel
 
 ---
 
-### 🐍 GitHub Activity
+### 👾 GitHub Activity using Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph-dark.svg">
