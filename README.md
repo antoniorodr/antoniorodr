@@ -27,9 +27,6 @@ Building clean, maintainable solutions from early prototypes to production-ready
   <a href="https://www.linkedin.com/in/antoniorodr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/antonioronor/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-f5c2e7?style=for-the-badge&logo=instagram&logoColor=1e1e2e" alt="Instagram"/>
-  </a>
   <a href="https://github.com/antoniorodr">
     <img src="https://img.shields.io/badge/GitHub-a6e3a1?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"/>
   </a>
