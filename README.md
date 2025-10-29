@@ -17,13 +17,17 @@ Building clean, maintainable solutions from early prototypes to production-ready
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://antoniorodriguez.no">
+<a href="mailto:kontakt@antoniorodriguez.no">
+    <img src="https://img.shields.io/badge/Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email"/>
+  </a>
+
+  <a href="https://antoniorodriguez.no" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-fab387?style=for-the-badge&logo=firefox&logoColor=1e1e2e" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/antoniorodr/">
+  <a href="https://www.linkedin.com/in/antoniorodr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/antonioronor/">
+  <a href="https://www.instagram.com/antonioronor/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-f5c2e7?style=for-the-badge&logo=instagram&logoColor=1e1e2e" alt="Instagram"/>
   </a>
   <a href="https://github.com/antoniorodr">
