@@ -49,6 +49,8 @@ Open to collaborations, opportunities, and exchanging ideas about software devel
 
 ### 🐍 GitHub Activity
 
-<img src="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/snake-mocha.svg" alt="Snake animation" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph.svg">
+</picture>
