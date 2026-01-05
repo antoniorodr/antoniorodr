@@ -36,14 +36,6 @@ Open to collaborations, opportunities, and exchanging ideas about software devel
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniorodr&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 👾 GitHub Activity using Pac-Man
 
 <picture>
