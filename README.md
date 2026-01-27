@@ -30,6 +30,9 @@ Building clean, maintainable solutions from early prototypes to production-ready
   <a href="https://github.com/antoniorodr">
     <img src="https://img.shields.io/badge/GitHub-a6e3a1?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"/>
   </a>
+  <a href="https://bsky.app/profile/antoniorodriguez.no">
+    <img src="https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky"/>
+  </a>
 </p>
 
 Open to collaborations, opportunities, and exchanging ideas about software development and technology. Feel free to reach out through any of the platforms above.
