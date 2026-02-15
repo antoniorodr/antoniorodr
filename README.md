@@ -1,6 +1,6 @@
 <div align="center">
 
-# Antonio Rodriguez
+# 👋 Antonio Rodriguez
 
 ### Solution-Oriented Developer
 
@@ -8,13 +8,13 @@ Backend development • Automation • Developer tooling
 
 ---
 
-### About Me
+### 🚀 About Me
 
 Building clean, maintainable solutions from early prototypes to production-ready tools. I focus on creating robust backend systems, streamlining workflows through automation, and developing tools that enhance developer productivity. My approach emphasizes code quality, scalability, and practical problem-solving.
 
 ---
 
-### Connect With Me
+### 🌐 Connect With Me
 
 <p>
 <a href="mailto:kontakt@antoniorodriguez.no">
@@ -39,7 +39,7 @@ Open to collaborations, opportunities, and exchanging ideas about software devel
 
 ---
 
-### GitHub Activity using Pac-Man
+### 👾 GitHub Activity using Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph-dark.svg">
