@@ -1,6 +1,6 @@
 <div align="center">
 
-# Antonio Rodriguez
+# 👋 Antonio Rodriguez
 
 ### Solution-Oriented Developer
 
