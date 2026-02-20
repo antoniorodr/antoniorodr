@@ -8,7 +8,6 @@ Building clean, maintainable solutions from early prototypes to production-ready
 
 [![Email](https://img.shields.io/badge/Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:kontakt@antoniorodriguez.no)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fab387?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://antoniorodriguez.no)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/antoniorodr/)
 [![GitHub](https://img.shields.io/badge/GitHub-a6e3a1?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/antoniorodr)
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/antoniorodriguez.no)
 
