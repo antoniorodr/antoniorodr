@@ -12,7 +12,3 @@ Building clean, maintainable solutions from early prototypes to production-ready
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/antoniorodriguez.no)
 
 Open to collaborations, opportunities, and exchanging ideas about software development and technology. Feel free to reach out through any of the platforms above.
-
-## 👾 GitHub Activity using Pac-Man
-
-![Pac-Man contribution graph](https://raw.githubusercontent.com/antoniorodr/antoniorodr/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
