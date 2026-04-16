@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Building clean, maintainable solutions from early prototypes to production-ready tools. I focus on creating robust backend systems, streamlining workflows through automation, and developing tools that enhance developer productivity. My approach emphasizes code quality, scalability, and practical problem-solving.
+Motivated and eager-to-learn developer with a background in finance, system administration, nursing, and HR. After discovering a strong interest in programming through work-related projects, I have actively developed my coding skills and built my own projects. I have experience building functional web applications, integrating APIs, and working with data in Excel and Power BI. With my interdisciplinary background, structured approach to work, and ability to learn quickly, I am highly motivated to take the next step as a junior developer and contribute to efficient and user-friendly IT solutions.
 
 ## 🌐 Connect With Me
 
